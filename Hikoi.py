@@ -5,7 +5,7 @@ import time
 import os
 
 Hikoi_Prefix = "hikoi "
-Hikoi_Token = "NzA1MzE4ODYxMzE4Mzg5ODIw.Xqp_iw.BdWbZ6UJpYaRdp6Z69mUs-XhmD0"
+Hikoi_Token = ""
 Hikoi_ban = 0
 #for rps
 Hikoi_anger = 0
